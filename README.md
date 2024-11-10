@@ -1,9 +1,5 @@
 **# Hi there! 👋 I'm Leo
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 # 🚀 About Me
 
 <img align="right" width="400" src="./Stark.gif">
