@@ -4,23 +4,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-# 🚀 About Me
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;">
+<div>
+    <div style="width: 50%; float: left;">
+        # 🚀 About Me
         🎨 I'm passionate about creating elegant solutions to complex problems  
         💡 I love exploring new tech stacks and building cool projects  
         🌱 I'm currently learning **[Technology/Skill]**  
         👯 I'm looking to collaborate on **Open Source Projects**  
         ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
     </div>
-    <img src="./Stark.gif" width="400" style="margin-left: 20px;"/>
+    <div style="width: 50%; float: right;">
+        <img src="./Stark.gif" width="100%" />
+    </div>
 </div>
 
-## 🛠️ Tech Stack and Tools
+<div style="clear: both;"></div>
+
+# 🛠️ Tech Stack and Tools
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,swift,unity,godot" />
-    <img src="https://skillicons.dev/icons?i=figma,git,mysql,nextjs,firebase,postman,matlab,r,tailwind,blender" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,swift" />
+    <img src="https://skillicons.dev/icons?i=figma,git,mysql,nextjs,firebase,postman,r,tailwind" />
   </a>
 </div>
 
