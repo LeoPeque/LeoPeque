@@ -1,4 +1,4 @@
-**# Hi there! 👋 I'm Leo
+<h1 align="center"><b>Hi, I'm Leonardo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://tenor.com/gicchO7nVGM.gif" width="35"></h1>
 
 # ℹ️ About Me
 
@@ -27,13 +27,6 @@
  <img height="195" src="https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=github_dark&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=8&count_private=true&include_all_commits=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🎯 Latest Projects
-### [Project Name 1](link)
-Brief description of the project
-
-### [Project Name 2](link)
-Brief description of the project
-
 ## 📫 Let's Connect!
 <div align="center">
   
@@ -48,3 +41,7 @@ Brief description of the project
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=300&text=-nl-&reversal=false&section=footer&color=0:0077b6,100:90e0ef" alt="Wave footer" />
+</div>
