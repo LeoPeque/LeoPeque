@@ -6,18 +6,13 @@
 
 # 🚀 About Me
 
+<img align="right" width="400" src="./Stark.gif">
+
 🔍 I'm passionate about creating elegant solutions to complex problems  
 💡 I love exploring new tech stacks and building cool projects  
 🌱 I'm currently learning [Technology/Skill]  
 👯 I'm looking to collaborate on Open Source Projects  
 ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
-</td>
-<td width="50%" valign="top">
-<img src="./Stark.gif" alt="coding" width="400">
-</td>
-</tr>
-</table>
 
 # 🛠️ Tech Stack and Tools
 <div align="center">
