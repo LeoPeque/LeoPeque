@@ -29,15 +29,15 @@
 
 ## 📫 Let's Connect!
 <div align="center">
- <a href="https://www.linkedin.com/in/your-username" target="_blank" style="text-decoration: none; margin: 0 10px;">
-   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/>
- </a>
- <a href="mailto:your-email@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
-   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail"/>
- </a>
- <a href="https://your-portfolio-website.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
-   <img src="https://img.icons8.com/fluent/48/000000/web.png" alt="website"/>
- </a>
+  <a href="https://www.linkedin.com/in/your-username" target="_blank" style="text-decoration: none; margin: 0 10px; display: inline-block;">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" style="display: block;"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px; display: inline-block;">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail" style="display: block;"/>
+  </a>
+  <a href="https://your-portfolio-website.com" target="_blank" style="text-decoration: none; margin: 0 10px; display: inline-block;">
+    <img src="https://img.icons8.com/fluent/48/000000/web.png" alt="website" style="display: block;"/>
+  </a>
 </div>
 
 
