@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Leo
+**# Hi there! 👋 I'm Leo
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
@@ -49,3 +49,28 @@ Brief description of the project
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
+**## 🛠️ Technology Stack
+
+### Languages & Technologies
+<div align="center">
+  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### Development Tools & Frameworks
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</div>
+
+### Most Used Languages
+```
+TypeScript  ███████████████████████░░░░░░  64.97%
+JavaScript  ███████░░░░░░░░░░░░░░░░░░░░░░  19.27%
+C++         ██░░░░░░░░░░░░░░░░░░░░░░░░░░   6.64%
+CSS         █░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.83%
+Dockerfile  █░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
+HTML        █░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
+```
