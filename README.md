@@ -1,4 +1,8 @@
-<h1 align="center"><b>Hi, I'm Leonardo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://tenor.com/gicchO7nVGM.gif" width="35"></h1>
+<h1 align="center">
+  <b>Hi, I'm Leonardo </b>
+  <img src="https://tenor.com/gicchO7nVGM.gif" width="35">
+</h1>
+
 
 # ℹ️ About Me
 
@@ -43,5 +47,5 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=300&text=-nl-&reversal=false&section=footer&color=0:0077b6,100:90e0ef" alt="Wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1C768F&text=-nl-&reversal=false&section=footer" alt="Wave footer" />
 </div>
