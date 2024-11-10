@@ -4,20 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<table>
-<tr>
-<td width="70%">
-
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="70%" style="border: none;">
 
 ## 🚀 About Me
 🎓 I'm passionate about creating elegant solutions to complex problems  
 💡 I love exploring new tech stacks and building cool projects  
-🌱 I'm currently learning **[Swift and Machine Learning]**  
+🌱 I'm currently learning **[Technology/Skill]**  
 👯 I'm looking to collaborate on **Open Source Projects**  
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 </td>
-<td>
-<img src="tonystark.gif" align="right" width="300"/>
+<td style="border: none;">
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 </td>
 </tr>
 </table>
