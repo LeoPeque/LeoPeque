@@ -23,7 +23,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img height="195" width="45%" src="https://github-readme-stats.vercel.app/api?username=LeoPeque&show_icons=true&theme=onedark" alt="GitHub Stats" />
   
-  <img height="195" width="45%" src="https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=onedark&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=8&count_private=true&include_all_commits=true&layout=donut" alt="Top Languages" />
+  <img height="195" width="45%" src="https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=onedark&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=8&count_private=true&include_all_commits=true&layout=normal" alt="Top Languages" />
 </div>
 
 ## 🎯 Latest Projects
