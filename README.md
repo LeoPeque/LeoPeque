@@ -29,15 +29,27 @@
 
 ## 📫 Let's Connect!
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](your-discord-url)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](your-medium-url)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](your-devto-url)
+  <a href="your-linkedin-url" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="your-twitter-url" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter"/>
+  </a>
+  <a href="your-portfolio-url" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/web.png" alt="website"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email"/>
+  </a>
+  <a href="your-github-url" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github"/>
+  </a>
+  <a href="your-discord-url" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/discord.png" alt="discord"/>
+  </a>
+  <a href="your-medium-url" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/medium-new.png" alt="medium"/>
+  </a>
 </div>
 
 
