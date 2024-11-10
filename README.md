@@ -66,11 +66,8 @@ Brief description of the project
 </div>
 
 ### Most Used Languages
-```
-TypeScript  ███████████████████████░░░░░░  64.97%
-JavaScript  ███████░░░░░░░░░░░░░░░░░░░░░░  19.27%
-C++         ██░░░░░░░░░░░░░░░░░░░░░░░░░░   6.64%
-CSS         █░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.83%
-Dockerfile  █░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
-HTML        █░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
-```
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPeque&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
