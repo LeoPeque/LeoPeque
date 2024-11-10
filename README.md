@@ -11,28 +11,19 @@
 👯 I'm looking to collaborate on **Open Source Projects**  
 ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
-## 🛠️ Tech Stack
-<div align="center">
-  
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🛠️ Tech Stack and Tools
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,swift />
-    <img src="https://skillicons.dev/icons?i=figma,git,mysql,nextjs,firebase,postman,r,tailwind" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,swift,unity,godot" />
+    <img src="https://skillicons.dev/icons?i=figma,git,mysql,nextjs,firebase,postman,matlab,r,tailwind,blender" />
   </a>
-</div>
-
 </div>
 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeoPeque&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoPeque&theme=radical" alt="GitHub Streak" />
+  
+  [![Top Langs](https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=radical&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=10&count_private=true&include_all_commits=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 🎯 Latest Projects
@@ -55,24 +46,4 @@ Brief description of the project
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
-**## 🛠️ Technology Stack
 
-### Languages & Technologies
-<div align="center">
-  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-### Development Tools & Frameworks
-<div align="center">
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-</div>
-
-### Most Used Languages
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=radical&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=10&count_private=true&include_all_commits=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
