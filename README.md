@@ -2,7 +2,7 @@
 
 # ℹ️ About Me
 
-<img align="right" width="400" src="./Stark.gif" style="margin-top: -20px">
+<img align="right" width="400" src="./Stark.gif" style="margin-top: 0px">
 
 🔍 I'm passionate about creating elegant solutions to complex problems  
 💡 I love exploring new tech stacks and building cool projects  
