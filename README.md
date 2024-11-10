@@ -15,7 +15,7 @@
       <p>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!</p>
     </td>
     <td style="border: none;">
-      <img src="./tonystark.gif" align="right" width="300" />
+      <img src="./Stark.gif" align="right" width="300" />
     </td>
   </tr>
 </table>
