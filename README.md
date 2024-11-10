@@ -4,12 +4,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
+<table>
+<tr>
+<td width="70%">
+
+
 ## 🚀 About Me
 🎓 I'm passionate about creating elegant solutions to complex problems  
 💡 I love exploring new tech stacks and building cool projects  
-🌱 I'm currently learning **[Technology/Skill]**  
+🌱 I'm currently learning **[Swift and Machine Learning]**  
 👯 I'm looking to collaborate on **Open Source Projects**  
-⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+
+</td>
+<td>
+<img src="tonystark.gif" align="right" width="300"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack and Tools
 <div align="center">
