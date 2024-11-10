@@ -29,32 +29,11 @@
 
 ## 📫 Let's Connect!
 <div align="center">
-  <!-- Option 1: Using Simple Icons -->
-  <a href="https://www.linkedin.com/in/your-username">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons@v4/icons/linkedin.svg" height="48" width="48"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons@v4/icons/gmail.svg" height="48" width="48"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons@v4/icons/googlechrome.svg" height="48" width="48"/>
-  </a>
 
-  <!-- Option 2: Using Devicon -->
-  <a href="https://www.linkedin.com/in/your-username">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" width="48"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="48" width="48"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
-  <!-- Option 3: Using Font Awesome -->
-  <a href="https://www.linkedin.com/in/your-username">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="48" width="48"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" height="48" width="48"/>
-  </a>
 </div>
 
 
