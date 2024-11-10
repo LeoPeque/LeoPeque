@@ -4,8 +4,7 @@
 
 <img align="right" width="400" src="./Stark.gif" style="margin-top: 0px">
 
-skibididopdop
-dopjwdwdsada
+**Student & Data Analyst Intern** @ *[Tecnologico de Monterrey](https://tec.mx/es)*  
 
 🔍 I'm passionate about creating elegant solutions to complex problems  
 💡 I love exploring new tech stacks and building cool projects  
