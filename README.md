@@ -6,11 +6,11 @@
 
 **Student & Data Analyst Intern** @ *[Tecnologico de Monterrey](https://tec.mx/es)*  
 
-🔍 I'm passionate about creating elegant solutions to complex problems  
-💡 I love exploring new tech stacks and building cool projects  
-🌱 I'm currently learning [Technology/Skill]  
-👯 I'm looking to collaborate on Open Source Projects  
-⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+🔍 I'm a **Passionate Full-Stack Developer** with a love for **AI and 2D/3D Simulations**
+💡 I love building creative and innovative projects
+⚡ Always eager to learn and adapt to cutting-edge technologies
+🌱 I'm currently learning **Swift and Machine Learning**  
+👯 I'm excited to bring my skills to team-driven projects that make a real impact.
 
 # 🛠️ Tech Stack and Tools
 <div align="center">
@@ -30,16 +30,15 @@
 ## 📫 Let's Connect!
 <div align="center">
 <a href="https://www.linkedin.com/in/leonardo-peque%C3%B1o-moreno-25bb0a2a2">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="60"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="60"/>
 </a>
 <a href="mailto:lpequenom@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="140" height="60"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="60"/>
 </a>
-<a href="https://https://leosportfoliowebsite.super.site">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=firefox-browser&logoColor=white" width="160" height="60"/>
+<a href="https://leosportfoliowebsite.super.site">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=firefox-browser&logoColor=white" width="100" height="60"/>
 </a>
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1C768F&text=-nl-&reversal=false&section=footer&fontAlignY=100&fontAlign=100&strokeWidth=14" alt="Wave footer" />
