@@ -20,6 +20,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,cpp,docker,figma,firebase,flask,git,gitlab,mysql,nextjs,postgres,postman,py,r,react,swift,tailwind,ts" />
+  </a>
+</div>
 
 </div>
 
@@ -56,8 +61,6 @@ Brief description of the project
   
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,cpp,docker,figma,firebase,flask,git,gitlab,mysql,nextjs,postgres,postman,py,r,react,swift,tailwind,ts)](https://skillicons.dev)
-</div>
 
 ### Development Tools & Frameworks
 <div align="center">
