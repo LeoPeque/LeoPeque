@@ -4,19 +4,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<div>
-    <div style="width: 50%; float: left;">
-        # 🚀 About Me
-        🎨 I'm passionate about creating elegant solutions to complex problems  
-        💡 I love exploring new tech stacks and building cool projects  
-        🌱 I'm currently learning **[Technology/Skill]**  
-        👯 I'm looking to collaborate on **Open Source Projects**  
-        ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-    </div>
-    <div style="width: 50%; float: right;">
-        <img src="./Stark.gif" width="100%" />
-    </div>
-</div>
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="70%" style="border: none;">
+
+## 🚀 About Me
+🎓 I'm passionate about creating elegant solutions to complex problems  
+💡 I love exploring new tech stacks and building cool projects  
+🌱 I'm currently learning **[Technology/Skill]**  
+👯 I'm looking to collaborate on **Open Source Projects**  
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+
+</td>
+<td style="border: none;">
+<img src="./Stark.gif" align="right" width="300"/>
+</td>
+</tr>
+</table>
 
 <div style="clear: both;"></div>
 
