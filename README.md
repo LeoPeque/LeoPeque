@@ -9,7 +9,7 @@
 💡 I love building creative and innovative projects  
 ⚡ Always eager to learn and adapt to cutting-edge technologies  
 🌱 I'm currently learning **Swift and Machine Learning**  
-👯 I'm excited to bring my skills to team-driven projects that make a real impact.
+👯 Excited to bring my skills to team-driven projects.
 
 # 🛠️ Tech Stack and Tools
 <div align="center">
@@ -29,13 +29,13 @@
 ## 📫 Let's Connect!
 <div align="center">
 <a href="https://www.linkedin.com/in/leonardo-peque%C3%B1o-moreno-25bb0a2a2">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="60"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
 </a>
 <a href="mailto:lpequenom@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="60"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
 </a>
 <a href="https://leosportfoliowebsite.super.site">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=firefox-browser&logoColor=white" width="100" height="60"/>
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=firefox-browser&logoColor=white" height="30"/>
 </a>
 </div>
 
