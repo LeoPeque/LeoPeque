@@ -20,10 +20,10 @@
 </div>
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="195" width="45%" src="https://github-readme-stats.vercel.app/api?username=LeoPeque&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  
-  <img height="195" width="45%" src="https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=onedark&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=8&count_private=true&include_all_commits=true&layout=normal" alt="Top Languages" />
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=LeoPeque&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+ 
+ <img src="https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=nightowl&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=8&count_private=true&include_all_commits=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🎯 Latest Projects
@@ -37,7 +37,7 @@ Brief description of the project
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Gmail](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
 
 </div>
