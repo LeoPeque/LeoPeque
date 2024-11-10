@@ -1,19 +1,23 @@
 **# Hi there! 👋 I'm Leo
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    # 🚀 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    🔍 I'm passionate about creating elegant solutions to complex problems  
-    💡 I love exploring new tech stacks and building cool projects  
-    🌱 I'm currently learning [Technology/Skill]  
-    👯 I'm looking to collaborate on Open Source Projects  
-    ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-  </div>
-  <div>
-    <img src="./Stark.gif" alt="coding" width="400">
-  </div>
-</div>
+# 🚀 About Me
+
+🔍 I'm passionate about creating elegant solutions to complex problems  
+💡 I love exploring new tech stacks and building cool projects  
+🌱 I'm currently learning [Technology/Skill]  
+👯 I'm looking to collaborate on Open Source Projects  
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+
+</td>
+<td width="50%" valign="top">
+<img src="./Stark.gif" alt="coding" width="400">
+</td>
+</tr>
+</table>
 
 # 🛠️ Tech Stack and Tools
 <div align="center">
