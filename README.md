@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=LeoPeque&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+ <img height="195" src="https://github-readme-stats.vercel.app/api?username=LeoPeque&show_icons=true&theme=github_dark" alt="GitHub Stats" />
  
- <img src="https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=nightowl&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=8&count_private=true&include_all_commits=true&layout=compact" alt="Top Languages" />
+ <img height="195" src="https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=github_dark&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=8&count_private=true&include_all_commits=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🎯 Latest Projects
