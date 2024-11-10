@@ -4,22 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; background-color: transparent;">
-  <div style="flex: 1;">
-    <h2>🚀 About Me</h2>
-    <ul style="list-style: none; padding: 0;">
-      <li>🎨 I'm passionate about creating elegant solutions to complex problems</li>
-      <li>💡 I love exploring new tech stacks and building cool projects</li>
-      <li>🌱 I'm currently learning <b>[Technology/Skill]</b></li>
-      <li>👯 I'm looking to collaborate on <b>Open Source Projects</b></li>
-      <li>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!</li>
-    </ul>
+# 🚀 About Me
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    🎨 I'm passionate about creating elegant solutions to complex problems  
+    💡 I love exploring new tech stacks and building cool projects  
+    🌱 I'm currently learning **[Technology/Skill]**  
+    👯 I'm looking to collaborate on **Open Source Projects**  
+    ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
   </div>
-  <div style="margin-left: 20px;">
-    <img src="./Stark.gif" width="350" alt="Tony Stark coding"/>
+  <div>
+    <img align="right" src="./Stark.gif" width="400"/>
   </div>
 </div>
-
 
 
 ## 🛠️ Tech Stack and Tools
