@@ -47,5 +47,5 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1C768F&text=-nl-&reversal=false&section=footer" alt="Wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1C768F&text=-nl-&reversal=false&section=footer&fontAlignY=100&fontAlign=100&strokeWidth=14" alt="Wave footer" />
 </div>
