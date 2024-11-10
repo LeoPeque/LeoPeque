@@ -29,14 +29,31 @@
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-username" target="_blank" style="text-decoration: none; margin: 0 10px; display: inline-block;">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" style="display: block;"/>
+  <!-- Option 1: Using Simple Icons -->
+  <a href="https://www.linkedin.com/in/your-username">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons@v4/icons/linkedin.svg" height="48" width="48"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px; display: inline-block;">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail" style="display: block;"/>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons@v4/icons/gmail.svg" height="48" width="48"/>
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank" style="text-decoration: none; margin: 0 10px; display: inline-block;">
-    <img src="https://img.icons8.com/fluent/48/000000/web.png" alt="website" style="display: block;"/>
+  <a href="https://your-portfolio.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons@v4/icons/googlechrome.svg" height="48" width="48"/>
+  </a>
+
+  <!-- Option 2: Using Devicon -->
+  <a href="https://www.linkedin.com/in/your-username">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" width="48"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="48" width="48"/>
+  </a>
+
+  <!-- Option 3: Using Font Awesome -->
+  <a href="https://www.linkedin.com/in/your-username">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="48" width="48"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" height="48" width="48"/>
   </a>
 </div>
 
