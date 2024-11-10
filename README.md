@@ -29,27 +29,15 @@
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="your-linkedin-url" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/>
-  </a>
-  <a href="your-twitter-url" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter"/>
-  </a>
-  <a href="your-portfolio-url" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/web.png" alt="website"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email"/>
-  </a>
-  <a href="your-github-url" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github"/>
-  </a>
-  <a href="your-discord-url" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/discord.png" alt="discord"/>
-  </a>
-  <a href="your-medium-url" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/medium-new.png" alt="medium"/>
-  </a>
+ <a href="https://www.linkedin.com/in/your-username" target="_blank" style="text-decoration: none; margin: 0 10px;">
+   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/>
+ </a>
+ <a href="mailto:your-email@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail"/>
+ </a>
+ <a href="https://your-portfolio-website.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+   <img src="https://img.icons8.com/fluent/48/000000/web.png" alt="website"/>
+ </a>
 </div>
 
 
