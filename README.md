@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<table style="border: none !important; border-collapse: collapse !important; margin: 0; padding: 0;">
-  <tr style="border: none !important;">
-    <td width="70%" style="border: none !important; vertical-align: top; padding: 0;">
+<table style="border: none; border-collapse: collapse; margin: 0; padding: 0; width: 100%;">
+  <tr style="border: none;">
+    <td width="70%" style="border: none; padding: 0; margin: 0;">
       <h2>🚀 About Me</h2>
       <p>🎓 I'm passionate about creating elegant solutions to complex problems</p>
       <p>💡 I love exploring new tech stacks and building cool projects</p>
@@ -14,11 +14,12 @@
       <p>👯 I'm looking to collaborate on <b>Open Source Projects</b></p>
       <p>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!</p>
     </td>
-    <td style="border: none !important; padding: 0;">
-      <img src="./Stark.gif" align="right" width="300" />
+    <td style="border: none; padding: 0; margin: 0;">
+      <img src="./tonystark.gif" align="right" width="300" />
     </td>
   </tr>
 </table>
+
 
 
 ## 🛠️ Tech Stack and Tools
