@@ -5,7 +5,7 @@
 
 **Student & Data Analyst Intern** @ *[Tecnologico de Monterrey](https://tec.mx/es)*  
 
-🔍 I'm a **Passionate Full-Stack Developer** with a love for **AI and 2D/3D Simulations**  
+🔍 I'm a **Full-Stack Developer** with a love for **AI and 2D/3D Simulations**  
 
 💡 I love building creative and innovative projects  
 
