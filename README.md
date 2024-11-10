@@ -27,8 +27,8 @@
 # 🛠️ Tech Stack and Tools
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,swift" />
-    <img src="https://skillicons.dev/icons?i=figma,git,mysql,nextjs,firebase,postman,r,tailwind" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,swift,unity,godot" />
+    <img src="https://skillicons.dev/icons?i=figma,git,mysql,nextjs,firebase,postman,matblab,r,tailwind,blender" />
   </a>
 </div>
 
