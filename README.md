@@ -20,10 +20,10 @@
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoPeque&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=LeoPeque&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
-  [![Top Langs](https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=radical&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=10&count_private=true&include_all_commits=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="45%" src="https://github-readme-stats-psi-bice.vercel.app/api/top-langs/?username=LeoPeque&theme=tokyonight&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=10&count_private=true&include_all_commits=true&layout=donut" alt="Top Languages" />
 </div>
 
 ## 🎯 Latest Projects
