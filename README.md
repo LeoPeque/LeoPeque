@@ -1,8 +1,8 @@
 **# Hi there! 👋 I'm Leo
 
-# 🚀 About Me
+# ℹ️ About Me
 
-<img align="right" width="400" src="./Stark.gif">
+<img align="right" width="400" src="./Stark.gif" style="margin-top: -20px">
 
 🔍 I'm passionate about creating elegant solutions to complex problems  
 💡 I love exploring new tech stacks and building cool projects  
