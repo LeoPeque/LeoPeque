@@ -1,8 +1,4 @@
-<h1 align="center">
-  <b>Hi, I'm Leonardo </b>
-  <img src="https://tenor.com/gicchO7nVGM.gif" width="35">
-</h1>
-
+<h1 align="center"><b>Hi, I'm Leonardo </b><img src="hi.gif" width="35"></h1>
 
 # ℹ️ About Me
 
