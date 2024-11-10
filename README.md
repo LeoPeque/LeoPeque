@@ -1,15 +1,18 @@
 <h1 align="center"><b>Hi, I'm Leonardo </b><img src="hi.gif" width="35"></h1>
 
 # ℹ️ About Me
-
 <img align="right" width="400" src="./Stark.gif" style="margin-top: 0px">
 
 **Student & Data Analyst Intern** @ *[Tecnologico de Monterrey](https://tec.mx/es)*  
 
-🔍 I'm a **Passionate Full-Stack Developer** 
-💡 I love building creative and innovative projects
-⚡ Always eager to learn and adapt to cutting-edge technologies
+🔍 I'm a **Passionate Full-Stack Developer** with a love for **AI and 2D/3D Simulations**  
+
+💡 I love building creative and innovative projects  
+
+⚡ Always eager to learn and adapt to cutting-edge technologies  
+
 🌱 I'm currently learning **Swift and Machine Learning**  
+
 👯 I'm excited to bring my skills to team-driven projects that make a real impact.
 
 # 🛠️ Tech Stack and Tools
