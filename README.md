@@ -4,6 +4,9 @@
 
 <img align="right" width="400" src="./Stark.gif" style="margin-top: 0px">
 
+skibididopdop
+dopjwdwdsada
+
 🔍 I'm passionate about creating elegant solutions to complex problems  
 💡 I love exploring new tech stacks and building cool projects  
 🌱 I'm currently learning [Technology/Skill]  
