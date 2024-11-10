@@ -1,23 +1,17 @@
 **# Hi there! 👋 I'm Leo
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
-</div>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    # 🚀 About Me
 
-<div>
-  <div style="float: left; width: 60%">
-    
-  ## 🚀 About Me
-
-  🎓 I'm passionate about creating elegant solutions to complex problems  
-  💡 I love exploring new tech stacks and building cool projects  
-  🌱 I'm currently learning **[Technology/Skill]**  
-  👯 I'm looking to collaborate on **Open Source Projects**  
-  ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-    
+    🔍 I'm passionate about creating elegant solutions to complex problems  
+    💡 I love exploring new tech stacks and building cool projects  
+    🌱 I'm currently learning [Technology/Skill]  
+    👯 I'm looking to collaborate on Open Source Projects  
+    ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
   </div>
-  <div style="float: right; width: 40%">
-    <img src="./Stark.gif" width="300">
+  <div>
+    <img src="./Stark.gif" alt="coding" width="400">
   </div>
 </div>
 
