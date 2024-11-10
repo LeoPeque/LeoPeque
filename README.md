@@ -68,6 +68,6 @@ Brief description of the project
 ### Most Used Languages
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPeque&layout=normal&theme=radical&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=10&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPeque&theme=radical&hide=jupyter%20notebook,HLSL,ShaderLab&langs_count=10&count_private=true&include_all_commits=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
