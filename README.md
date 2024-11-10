@@ -22,7 +22,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c#,react,js,html,css,cs,figma,firebase,flask,git,gitlab,mysql,nextjs,postgres,postman,py,r,react,swift,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,react,swift />
+    <img src="https://skillicons.dev/icons?i=figma,git,mysql,nextjs,firebase,postman,r,tailwind" />
   </a>
 </div>
 
