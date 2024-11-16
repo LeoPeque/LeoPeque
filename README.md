@@ -3,7 +3,7 @@
 # ℹ️ About Me
 <img align="right" width="400" src="./Stark.gif" style="margin-top: 0px">
 
-**Student & Data Scientist Intern** @ *[Tecnologico de Monterrey](https://tec.mx/es)*  
+**Software Engineer Student** @ *[Tecnologico de Monterrey](https://tec.mx/es)*  
 
 🔍 **Full-Stack Developer** with a love for **AI and 2D/3D Simulations**  
 💡 I love building creative and innovative projects  
